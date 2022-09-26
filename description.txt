@@ -1,0 +1,38 @@
+CSCI S-38
+Intro to C++ for Programmers
+Game Project 1
+
+Deliverables
+ Submit one source file.
+ Each problem should be in its own function.
+ Upload the questions as a separate text file.
+
+Focus
+Program flow, use of a simple if statement, random numbers
+
+Fortune Teller
+Your assignment is to implement a simulated &quot;Fortune Teller&quot;. Prompt the user to ask the question
+that they want answered. You will then give them one of 6 answers based on random selection. Note:
+you will need to use an if statement to complete this problem.
+Possible answers are: &quot;Not in your lifetime&quot;, &quot;Maybe next week&quot;, &quot;Yes!&quot;, etc.
+Example Output:
+What is your burning question? &gt; Will I get rich?
+The fortune teller has answered: Maybe next week
+
+Shell Game
+
+Ask the user which &quot;shell&quot; contains the ball. Possible choices are 1, 2, 3, 4, 5.
+The user should be given two tries to find it. Note: you may assume the input is in a valid format and
+range (in this case you can assume that the user enters a number between 1 and 5).
+Example Output:
+Where is the shell? Choose box 1 - 5 &gt; 2
+That is incorrect.
+You may try again.
+
+Where is the shell? Choose box 1 - 5 &gt; 4
+Correct!
+
+Additional Questions
+[upload as a text file to canvas]
+1. What was the most useful skill you gained this week?
+2. What was the most interesting &quot;fact&quot; you learned
